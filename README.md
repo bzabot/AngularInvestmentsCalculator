@@ -1,6 +1,6 @@
 # Investments Calculator
 
-A Angular investments calculator for the next chosen years.
+An Angular investments calculator for the next chosen years.
 
 ## Screenshot
 
